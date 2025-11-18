@@ -14,6 +14,8 @@ Features
 
 # Setup Instructions
 
+tool - Google Colab NoteBook
+
 Create Virtual Environment
 python -m venv venv
 source venv/bin/activate # Mac/Linux
