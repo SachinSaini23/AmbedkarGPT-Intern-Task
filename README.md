@@ -11,10 +11,9 @@ Features
 - Retrieval-based QA
 - LLM using Ollama (Mistral 7B)
 
+Tool Used - Google Colab NoteBook
 
 # Setup Instructions
-
-tool - Google Colab NoteBook
 
 Create Virtual Environment
 python -m venv venv
